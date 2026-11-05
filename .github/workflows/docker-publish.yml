@@ -1,6 +1,5 @@
 
 name: Docker Build Test and Publish
-
 on:
   push:
     branches: [main]
